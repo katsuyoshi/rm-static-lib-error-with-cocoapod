@@ -22,6 +22,7 @@ gem 'motion-cocoapods'
 Make static library.
 
 ```
+$ bundle
 $ rake pod:install
 $ rake static
 ```
