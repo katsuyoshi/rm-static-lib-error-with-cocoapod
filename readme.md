@@ -1,4 +1,4 @@
-# Join the RubyMotion Slack Channel #
+# How to reproduce an error.
 
 Create a project.
 
